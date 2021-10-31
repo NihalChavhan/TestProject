@@ -1,2 +1,2 @@
 # TestProject
-Test Project
+Test Project for git commands
